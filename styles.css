@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    /* text-align: center; */
+    
+}
+
+#switch{
+    width: 50px;
+}
+#bulb{
+    width: 300px;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
